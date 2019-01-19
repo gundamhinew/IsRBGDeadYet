@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<script src="generator.js"></script>
+	<script src="data.js"></script>
+	<title>徐磊今天绿了么</title>
+</head>
+<body>
+	<h1>徐磊今天绿了么</h1>
+	<button type="button" onclick="startGenerator()" style="width:1100px;height:680px;font-size:200px;">查看！</button>
+	<table>
+		<tr>
+			<td id="heightText">结果</td>
+			<td id="height">可能还没有</td>
+		</tr>
+					
+	
+	</table>
+	<br>
+	<a href="https://www.douban.com/people/156309831/">欢迎交流</a>
+	
+	
+</body>
+</html>
