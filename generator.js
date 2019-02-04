@@ -2,17 +2,6 @@ const PI = 3.14159;
 
 function startGenerator() {
     generateBody();
-    generateAge();
-    generateHair();
-	generatefujinum();
-	generateStaytime();
-    generateEyes();
-    generateAttribute();
-    generateCharacter();
-   // generateCup();
-   //generateHairData();
-    generateSuperPower();
-    generateSkin();
 }
 
 
